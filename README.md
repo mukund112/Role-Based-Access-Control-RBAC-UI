@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# RBAC UI Project
+
+## Overview
+This project is a Role-Based Access Control (RBAC) User Interface designed to manage users, roles, and permissions efficiently. The application provides secure role and user management, ensuring flexibility for admins.
+
+## Features
+- User management: Add, edit, delete, and manage user statuses (Active/Inactive).
+- Role management: Create, edit, and delete roles with dynamic permissions.
+- Permissions: Assign granular permissions to roles (e.g., Read, Write, Delete).
+
+## Technologies Used
+- React.js
+- Tailwind CSS (or any other styling library used)
+- JavaScript (ES6)
+  
+## Setup Instructions
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/repo-name.git
+   cd repo-name
+   
+**The application will be accessible at http://localhost:3000.**
+>>>>>>> 0300fcd0fd6d04c605016e57670af8969c98eb13
